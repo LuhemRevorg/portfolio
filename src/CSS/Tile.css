@@ -1,0 +1,88 @@
+.tile_close {
+    width: 388px;
+    height: 167px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #D9D9D9;
+    display:flex;
+    text-align: center;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.tile_close:hover {
+    width: 388px;
+    height: 167px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #D9D9D9;
+    display:flex;
+    text-align: center;
+    top:1;
+    box-shadow: 0px 0px 0px 5px #0ff;
+}
+
+.tile_close img {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    flex-shrink: 0;
+    width: 178px;
+    height: 127px;
+}
+
+.tile_close h1 {
+    height: 30px;
+    width: 200px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: 'Inconsolata';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 68.5px;
+    margin-left: -10px;
+}
+
+.tile_open {
+    width: 700px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #D9D9D9;
+    display:flex;
+    text-align: center;
+    margin-left: 12.5%;
+    margin-bottom: 50px;
+}
+
+.tile_open img {
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    flex-shrink: 0;
+    width: 280px;
+    height: 200px;
+}
+
+.tile_open h1 {
+    height: 30px;
+    width: 200px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: 'Inconsolata';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 68.5px;
+    margin-left: 100px;
+}
+
+.tile_open p {
+    margin-top: 150px;
+    margin-left: -300px;
+    font-family: 'Inconsolata';
+    font-size: 20px;
+}

@@ -1,0 +1,18 @@
+.projects_text {
+    width: 659px;
+    height: 118px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    margin-left: 20%;
+}
+
+.item_container {
+    display: flexbox;
+
+}

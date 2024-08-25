@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.everything {
+    display: flex;
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 465px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #181818;
+    
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+
+}
+
+.EXPLORER {
+    width: 160px;
+    height: 35px;
+    flex-shrink: 0;
+    margin-left: 30px;
+}
+
+.EXPLORER h1 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Editors {
+    width: 160px;
+    height: 35px;
+    flex-shrink: 0;
+    margin-left: 30px;
+}
+
+.social_icon {
+    margin-left: 50px;
+}
+
+.Editors h1 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.navitem {
+    display: flex;
+    padding-top: 20px;
+    width: 384px;
+    height: 43px;
+    flex-shrink: 0;
+    gap:10px;
+
+}
+
+.navitem:hover {
+    display: flex;
+    padding-top: 20px;
+    width: 384px;
+    height: 43px;
+    flex-shrink: 0;
+    background: #1F1F1F;
+    gap:10px;
+}
+
+.navitem img {
+    width: 34px;
+    height: 34px;
+    flex-shrink: 0;
+}
+
+.text {
+    width: 160px;
+    height: 23px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 5px;
+}
+button {
+    all: unset;
+  }
+  
+button:focus {
+    outline: revert;
+  }
+.navbar {
+    display: inline-block;
+    width: 384px;
+    flex-shrink: 0;
+    background: #181818;
+}
+
+.main-content {
+    margin-left: 465px; /* Same as the width of the sidebar */
+    margin-top: 66px;
+    width: 100%;
+    background-color: #181818;
+    overflow-x: hidden;
+}

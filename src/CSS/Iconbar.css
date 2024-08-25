@@ -1,0 +1,29 @@
+.blue_line {
+    width: 10px; 
+    color: blue;
+    top: 0;
+}
+
+.icon_bar {
+    width: 81px;
+    flex-shrink: 0;
+    background: #181818;
+}
+
+.icon {
+    margin-top: 20px;
+    width: 81px;
+    height: 79px;
+    flex-shrink: 0; 
+}
+
+.icon_icon {
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
