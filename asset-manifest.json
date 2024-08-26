@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.0e810ab0.css",
-    "main.js": "/Portfolio/static/js/main.68ebf4ab.js",
-    "static/media/ENGINE.png": "/Portfolio/static/media/ENGINE.cb8b4b6e17763a2b2f53.png",
-    "static/media/Space_Invaders.png": "/Portfolio/static/media/Space_Invaders.dc2b026b794829b19690.png",
-    "static/media/Weather_Prediction.png": "/Portfolio/static/media/Weather_Prediction.df682f7b5e3dd56836db.png",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.0faf80bba50df8180b63.pdf",
-    "index.html": "/Portfolio/index.html",
-    "static/media/alternate_email_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg": "/Portfolio/static/media/alternate_email_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.35945d13cda68774b982d5da2b911a2b.svg",
-    "static/media/close.svg": "/Portfolio/static/media/close.239ce48e6844a6417090f4902fb09529.svg",
-    "main.0e810ab0.css.map": "/Portfolio/static/css/main.0e810ab0.css.map",
-    "main.68ebf4ab.js.map": "/Portfolio/static/js/main.68ebf4ab.js.map"
+    "main.css": "/static/css/main.0e810ab0.css",
+    "main.js": "/static/js/main.c6c4ae0d.js",
+    "static/media/ENGINE.png": "/static/media/ENGINE.cb8b4b6e17763a2b2f53.png",
+    "static/media/Space_Invaders.png": "/static/media/Space_Invaders.dc2b026b794829b19690.png",
+    "static/media/Weather_Prediction.png": "/static/media/Weather_Prediction.df682f7b5e3dd56836db.png",
+    "static/media/Resume.pdf": "/static/media/Resume.0faf80bba50df8180b63.pdf",
+    "index.html": "/index.html",
+    "static/media/alternate_email_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg": "/static/media/alternate_email_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.35945d13cda68774b982d5da2b911a2b.svg",
+    "static/media/close.svg": "/static/media/close.239ce48e6844a6417090f4902fb09529.svg",
+    "main.0e810ab0.css.map": "/static/css/main.0e810ab0.css.map",
+    "main.c6c4ae0d.js.map": "/static/js/main.c6c4ae0d.js.map"
   },
   "entrypoints": [
     "static/css/main.0e810ab0.css",
-    "static/js/main.68ebf4ab.js"
+    "static/js/main.c6c4ae0d.js"
   ]
 }
