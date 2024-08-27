@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a226a38e.css",
-    "main.js": "/Portfolio/static/js/main.9f74502f.js",
+    "main.css": "/Portfolio/static/css/main.65781bc3.css",
+    "main.js": "/Portfolio/static/js/main.4e6b5773.js",
+    "static/media/Hestia.png": "/Portfolio/static/media/Hestia.2bb3bf4caf40475a45c4.png",
     "static/media/ENGINE.png": "/Portfolio/static/media/ENGINE.cb8b4b6e17763a2b2f53.png",
     "static/media/Space_Invaders.png": "/Portfolio/static/media/Space_Invaders.dc2b026b794829b19690.png",
     "static/media/Weather_Prediction.png": "/Portfolio/static/media/Weather_Prediction.df682f7b5e3dd56836db.png",
@@ -9,11 +10,11 @@
     "index.html": "/Portfolio/index.html",
     "static/media/alternate_email_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg": "/Portfolio/static/media/alternate_email_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.35945d13cda68774b982d5da2b911a2b.svg",
     "static/media/close.svg": "/Portfolio/static/media/close.239ce48e6844a6417090f4902fb09529.svg",
-    "main.a226a38e.css.map": "/Portfolio/static/css/main.a226a38e.css.map",
-    "main.9f74502f.js.map": "/Portfolio/static/js/main.9f74502f.js.map"
+    "main.65781bc3.css.map": "/Portfolio/static/css/main.65781bc3.css.map",
+    "main.4e6b5773.js.map": "/Portfolio/static/js/main.4e6b5773.js.map"
   },
   "entrypoints": [
-    "static/css/main.a226a38e.css",
-    "static/js/main.9f74502f.js"
+    "static/css/main.65781bc3.css",
+    "static/js/main.4e6b5773.js"
   ]
 }
