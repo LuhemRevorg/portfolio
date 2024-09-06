@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ef2e37ef.css",
-    "main.js": "/Portfolio/static/js/main.73a63b4f.js",
+    "main.css": "/Portfolio/static/css/main.5d8c92e0.css",
+    "main.js": "/Portfolio/static/js/main.0a1832fe.js",
     "static/media/Hestia.png": "/Portfolio/static/media/Hestia.2bb3bf4caf40475a45c4.png",
     "static/media/ENGINE.png": "/Portfolio/static/media/ENGINE.cb8b4b6e17763a2b2f53.png",
     "static/media/Space_Invaders.png": "/Portfolio/static/media/Space_Invaders.dc2b026b794829b19690.png",
@@ -10,11 +10,11 @@
     "index.html": "/Portfolio/index.html",
     "static/media/alternate_email_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg": "/Portfolio/static/media/alternate_email_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.35945d13cda68774b982d5da2b911a2b.svg",
     "static/media/close.svg": "/Portfolio/static/media/close.239ce48e6844a6417090f4902fb09529.svg",
-    "main.ef2e37ef.css.map": "/Portfolio/static/css/main.ef2e37ef.css.map",
-    "main.73a63b4f.js.map": "/Portfolio/static/js/main.73a63b4f.js.map"
+    "main.5d8c92e0.css.map": "/Portfolio/static/css/main.5d8c92e0.css.map",
+    "main.0a1832fe.js.map": "/Portfolio/static/js/main.0a1832fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef2e37ef.css",
-    "static/js/main.73a63b4f.js"
+    "static/css/main.5d8c92e0.css",
+    "static/js/main.0a1832fe.js"
   ]
 }
