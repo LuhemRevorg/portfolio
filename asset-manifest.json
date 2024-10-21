@@ -1,20 +1,26 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5d8c92e0.css",
-    "main.js": "/Portfolio/static/js/main.0a1832fe.js",
+    "main.js": "/Portfolio/static/js/main.a74f2370.js",
     "static/media/Hestia.png": "/Portfolio/static/media/Hestia.2bb3bf4caf40475a45c4.png",
-    "static/media/ENGINE.png": "/Portfolio/static/media/ENGINE.cb8b4b6e17763a2b2f53.png",
     "static/media/Space_Invaders.png": "/Portfolio/static/media/Space_Invaders.dc2b026b794829b19690.png",
     "static/media/Weather_Prediction.png": "/Portfolio/static/media/Weather_Prediction.df682f7b5e3dd56836db.png",
     "static/media/Resume.pdf": "/Portfolio/static/media/Resume.65c00f23e729afe61438.pdf",
+    "static/media/ENGINE.jpg": "/Portfolio/static/media/ENGINE.eb7573f1b37c4440701a.jpg",
+    "static/media/rhythm.jpeg": "/Portfolio/static/media/rhythm.628513576a1dec51a874.jpeg",
+    "static/media/react-svgrepo-com.svg": "/Portfolio/static/media/react-svgrepo-com.9e12c1c87040ddb62b7ea0aa4d310f7f.svg",
+    "static/media/django-svgrepo-com.svg": "/Portfolio/static/media/django-svgrepo-com.021180649ff692d298477785855bc105.svg",
+    "static/media/mongodb-svgrepo-com.svg": "/Portfolio/static/media/mongodb-svgrepo-com.4c39aef06f7e0d33551b3d81ed91f205.svg",
+    "static/media/figma-svgrepo-com (1).svg": "/Portfolio/static/media/figma-svgrepo-com (1).cdac532cc29d802610b2964d86ac5d2d.svg",
     "index.html": "/Portfolio/index.html",
     "static/media/alternate_email_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg": "/Portfolio/static/media/alternate_email_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.35945d13cda68774b982d5da2b911a2b.svg",
+    "static/media/content_copy_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24.svg": "/Portfolio/static/media/content_copy_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24.661ecd421f1b3e7880f3b0c02350f744.svg",
     "static/media/close.svg": "/Portfolio/static/media/close.239ce48e6844a6417090f4902fb09529.svg",
     "main.5d8c92e0.css.map": "/Portfolio/static/css/main.5d8c92e0.css.map",
-    "main.0a1832fe.js.map": "/Portfolio/static/js/main.0a1832fe.js.map"
+    "main.a74f2370.js.map": "/Portfolio/static/js/main.a74f2370.js.map"
   },
   "entrypoints": [
     "static/css/main.5d8c92e0.css",
-    "static/js/main.0a1832fe.js"
+    "static/js/main.a74f2370.js"
   ]
 }
